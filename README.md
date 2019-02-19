@@ -5,3 +5,7 @@ More info: https://www.notion.so/bmmashat/The-Day-I-Opened-The-Fridge-Game-69d83
 
 This is work on progres.. Feel free to read, follow, and/or give me feedback :)
 I can be reached at on Twitter: @bmmashat or email: b.m.mashat@gmail.com
+
+
+
+#### [Dev Log](https://github.com/bmmashat/the-day-i-opened-the-fridge/blob/master/DevLog.md)
