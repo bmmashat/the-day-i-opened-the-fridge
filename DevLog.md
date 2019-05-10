@@ -19,3 +19,6 @@ Okay.. Finally back phew! So, I prototyped the first part of the game using Ren'
 ### Day 4 (May 7, 2019) 
 Alright. I decided to make this game as my final project for my writing in games class (TCS 191). I just pitched it and people seem to be very excited.. Which makes me nervous! [Here is my pitch](https://docs.google.com/presentation/d/1YInIJs9fiFnqte8Hz3Ug0oyNnVhcQ6Ftg02fu3GRNAI/edit?usp=sharing). <br>
 I'm now having second thoughts.. Shall I make it using Ren'Py or? Well, for now I will just focus on the writing and then worry later about the UI. 
+
+### Day 5 (May 10, 2019)
+I spent more time polishing part one and reducing it to 113 lines! (was 196 lines). I still think it's too long though. Need to do some playtesting. I made a prototype on ink. It's accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-one). 
