@@ -1,7 +1,7 @@
 # The Day I Opened The Fridge
-A text-app simulator game attempting to highlight the difficulty &amp; importance of communication in relationships. Developed using Ink &amp; Unity.
+A text-app simulator game attempting to highlight the difficulty &amp; importance of communication in relationships. Developed using Ink &amp; Unity. (maybe?)
 
-More info: https://www.notion.so/bmmashat/The-Day-I-Opened-The-Fridge-Game-69d833d91b7f473e9475f9eceaeb8a05
+More info [here](https://www.notion.so/bmmashat/The-Day-I-Opened-The-Fridge-Game-69d833d91b7f473e9475f9eceaeb8a05)
 
 This is work on progress.. Feel free to read, follow, and/or give me feedback :)
 
