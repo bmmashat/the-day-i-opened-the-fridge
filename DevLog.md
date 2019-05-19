@@ -26,7 +26,8 @@ I spent more time polishing part one and reducing it to 113 lines! (was 196 line
 ### Day 6 (May 18, 2019)
 Based on some feedvack (3 people), they felt the conversation flow was natural, so I decided to keep it as it is for now and start working on part 2. But before that, I added some styles to make it easier for reading (see picture below). I changed the background to dark, and I finally managed to change the color of the text! Phew! Thanks to Chrome's "Inspect" option, I was able to see how [this game](https://h-anklebone.itch.io/a-song-for-kharon) had styles. Turns out ink already had support of tags (#CLASS: <whatever>) and then you just add the class customization in the CSS file. 
 
-![screenshot](https://github.com/the-day-i-opened-the-fridge/Ink/darkcolors.jpg "screenshot of colros")
+![screenshot](https://github.com/bmmashat/the-day-i-opened-the-fridge/Ink/darkcolors.jpg "screenshot of colros")
 
 
 ### Day 7 (May 19, 2019) 
+I started and FINISHED part two. It's a draft though, I'm still not satisfied with it. And it's not like what I originally planned. This part you play from the perspective of one character (Blue), and players will have some choices to reveal more about the story. But I decided not to change the conversation and just add Blue's thoughts as the source of the "additional info" the player can get from this level. I might change this later but after testing to see how people react to it. Next step: write part 3! Part 2 is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-two). 
