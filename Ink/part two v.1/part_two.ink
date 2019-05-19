@@ -1,16 +1,66 @@
 # theme: dark
 # author: Bayan Mashat
 
+// 
 
 -> start 
 
-
 == start == 
 
-+ [start] -> next0
++ [I wasn't supposed to see it] -> blueThink0
 
+== blueThink0 == 
++ [This wasn't supposed to happen] -> blueThink1
+
+== blueThink1 == 
++ [Ah.. My head.. My heart.. My hand.. I'm literally shaking..] -> blueThink2
+
+== blueThink2 == 
++ [My god.. I never expect it will affect me this much.. FUCK HIM!] -> blueThink3
+
+== blueThink3 == 
++ [No.. No.. Is this the end? Is it going to end now? This is it? No.. No..] -> blueThink4
+
+== blueThink4 == 
++ [WHY DID HE HAVE TO DO THAT?!!!! ] -> blueThink5
+
+== blueThink5 == 
++ [Calm down Blue.. Calm down.. You'll be fine.. But.. WHY!!! WHY DID HE DO THAT!!!] -> blueThink6
+
+== blueThink6 == 
++ [It's all my fault! I shouldn't have entered his apartment while he's gone to use the bathroom and see it..] -> blueThink7
+
+== blueThink7 == 
++ [No.. I shouldn't get mad.. I mean.. I agreed to this from the very beginning of our relationship.. I should tolerate whatever I signed up for..] -> blueThink8
+
+== blueThink8 == 
++ [Man.. What is this rush of hatred and outrage I'm feeling! I can't hide it. I can't. I need to let it out. But it will literally ruin everything we have and end it for good!] -> blueThink9
+
+== blueThink9 == 
++ [I don't want that to happen.. At least not now.. ] -> blueThink10
+
+== blueThink10 == 
++ [Oh.. Got it.. ] -> blueThink11
+
+== blueThink11 ==
+
++ ["Cooking for you is never happening again"] -> next0
+
+
+
+
+
+
+
+
+
+
+
+
+
+// start of actual converstaion 
 == next0 == 
-[Blue]: Cooking for you is never happening again. At least for a good while.
+[Blue]: Cooking for you is never happening again. At least for a good while #CLASS: wild
 
 + [next] -> next1
 
@@ -19,7 +69,7 @@
 [Purple]: Can you take a step back and tell me what's happening in your mind first?
 [Purple]: Might be false assumptions, like last time
 
-+ [next] -> next2
++ [I cooked him my special dessert last week. ] -> next2
 -> DONE
 
 == next2 ==
