@@ -411,7 +411,7 @@ Promise to listen, you don't have to talk #CLASS: purple
 
 Ok #CLASS: blue
 
-+ [(Given the fact she's a mysterious person, I need her to promise me. Can't allow any misunderstanding here.)] -> next23
++ [(Given the fact she's a mysterious person, I need her to promise me. Can't allow any misunderstandings here.)] -> next23
 -> DONE
 
 == next23 ==
@@ -440,7 +440,7 @@ There's a lot going on my plate. I'm dealing with so much these days. And I'm ha
 Good night #CLASS: blue
 
 
-+ [(That's why I exactly want to talk to her! I want to help! And I want to save this relationship cuz it's shaking right now..)] -> next25
++ [(That's exactly why I  want to talk to her! I want to help! And I want to save this relationship cuz it's shaking right now..)] -> next25
 -> DONE
 
 == next25 ==
