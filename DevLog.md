@@ -32,13 +32,20 @@ Based on some feedvack (3 people), they felt the conversation flow was natural, 
 ### Day 7 (May 19, 2019) 
 I started and FINISHED part two. It's a draft though, I'm still not satisfied with it. And it's not like what I originally planned. This part you play from the perspective of one character (Blue), and players will have some choices to reveal more about the story. But I decided not to change the conversation and just add Blue's thoughts as the source of the "additional info" the player can get from this level. I might change this later but after testing to see how people react to it. Next step: write part 3! Part 2 is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-two). 
 
+### Day 8 (May 24, 2019) 
+Finished part 3. I'm not very satisified with it. I wrote it in rush. But at this point, I just want to finish the whole game, and then I will work on changing/improving the conversation. Part 3 is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-three). Next: combine part 1,2,3 together in one bulid.
+
+### Day 9 (May 25, 2019) 
+One problem I didn't account for is.. 
+
 #### TODO: 
 ##### Next: 
-- [ ] update theme & colors for part one.
-- [ ] fix spelling errors in part 2. Maybe some phrases (emotions.. gaurd down..)
-##### Then: 
-- [ ] write part 3 
+- [x] update theme & colors for part one.
+- [x] write part 3 
 - [ ] wrtie part 4 (the conflict + the continuation of the conversation)
-- [ ] implement the ending (audio + dedication
-- [ ] combine everything together in Ink (Intro to each level)
-- [ ] work on styles, colors, and feels 
+- [ ] implement the ending (audio + dedication)
+- [ ] combine part 1,2, & 3
+- [ ] combine everything together in Ink
+- [ ] edits: fix spelling errors in part 2. Maybe some phrases (emotions.. gaurd down..)
+- [x] style: colors
+- [x] style: ActLikeTwine
