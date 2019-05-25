@@ -36,16 +36,21 @@ I started and FINISHED part two. It's a draft though, I'm still not satisfied wi
 Finished part 3. I'm not very satisified with it. I wrote it in rush. But at this point, I just want to finish the whole game, and then I will work on changing/improving the conversation. Part 3 is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-three). Next: combine part 1,2,3 together in one bulid.
 
 ### Day 9 (May 25, 2019) 
-One problem I didn't account for is.. 
+One problem I didn't account for is.. write about toggleflow, combining, the use of (-) 
+
+### Day 10 (May 26, 2019)
+finished part 4 (hopefully) 
 
 #### TODO: 
 ##### Next: 
 - [x] update theme & colors for part one.
 - [x] write part 3 
-- [ ] wrtie part 4 (the conflict + the continuation of the conversation)
-- [ ] implement the ending (audio + dedication)
-- [ ] combine part 1,2, & 3
-- [ ] combine everything together in Ink
-- [ ] edits: fix spelling errors in part 2. Maybe some phrases (emotions.. gaurd down..)
 - [x] style: colors
 - [x] style: ActLikeTwine
+- [x] combine part 1,2, & 3
+- [ ] wrtie part 4 
+##### Then:
+- [ ] implement the ending (audio + dedication)
+- [ ] combine everything together in Ink
+- [ ] edits: fix spelling errors in part 2. Maybe some phrases (emotions.. gaurd down..)
+
