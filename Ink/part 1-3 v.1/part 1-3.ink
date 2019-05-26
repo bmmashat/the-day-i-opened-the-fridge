@@ -283,7 +283,7 @@ Good night #CLASS: blue
  + [Start Act 2] -> start_act_two
 
  == start_act_two == 
-+ (act2) [Act 2: Why Did You Open The Fridge?] -> start_of_monologue_overthinking #toggleFlow 
++ (act2) [Act 2: Why Did You Open The Fridge?] -> start_of_actual_actual_conversation #toggleFlow 
  
  == start_of_actual_actual_conversation == 
  
@@ -585,7 +585,7 @@ Good night #CLASS: blue
  
  == start_act_three == 
 
- + (act3) [Act 3: I Didn't Open The Fridge] -> start_of_actual_actual_conversation #toggleFlow 
+ + (act3) [Act 3: I Didn't Open The Fridge] -> start_of_monologue_overthinking #toggleFlow 
 
 // start of monologue overthinking
 == start_of_monologue_overthinking == 
@@ -913,7 +913,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
  == start_act_four == 
  + (act4) [Act 4: I Didn't Love The Fridge, I Loved You] #toggleFlow 
  
- Writing in progres.. 
+ Writing in progres.. Stay tuned! 
 
   ______________________ End of Act 4 ______________________
 
