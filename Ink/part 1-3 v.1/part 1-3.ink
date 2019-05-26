@@ -193,7 +193,7 @@ And then make whatever decision you want #CLASS: blue
 I do not feel comfortable talking about this at all #CLASS: blue
 So if you're okay with a one sided conversation yeah sure #CLASS: blue
 And please stop saying I don't care about you #CLASS: blue
-I'm in a very difficult situation and I'm trying my best to open to you #CLASS: blue
+I'm in a very difficult situation and I'm trying my best to open up to you #CLASS: blue
 I am not always hiding things from you #CLASS: blue
 And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
@@ -219,7 +219,7 @@ Haha! Good one. Ironically.. #CLASS: purple
 
 + [next] 
 
-- My biggest concern is, sharing with happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
 
 Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
@@ -484,7 +484,7 @@ Here's one thing you need to know #CLASS: blue
 I do not feel comfortable talking about this at all #CLASS: blue
 So if you're okay with a one sided conversation yeah sure #CLASS: blue
 And please stop saying I don't care about you #CLASS: blue
-I'm in a very difficult situation and I'm trying my best to open to you #CLASS: blue
+I'm in a very difficult situation and I'm trying my best to open up to you #CLASS: blue
 I am not always hiding things from you #CLASS: blue
 And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
@@ -513,7 +513,7 @@ Says you, the CTO and co-founder of the emotional health provider texting-based 
 
 - Haha! Good one. Ironically.. #CLASS: purple
 
-My biggest concern is, sharing with happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
 
 + [(Why is she so insistent on the fact this would hurt our relationship rather than fix it?)]
 
@@ -811,7 +811,7 @@ And then make whatever decision you want #CLASS: blue
 I do not feel comfortable talking about this at all #CLASS: blue
 So if you're okay with a one sided conversation yeah sure #CLASS: blue
 And please stop saying I don't care about you #CLASS: blue
-I'm in a very difficult situation and I'm trying my best to open to you #CLASS: blue
+I'm in a very difficult situation and I'm trying my best to open up to you #CLASS: blue
 I am not always hiding things from you #CLASS: blue
 And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
@@ -837,7 +837,7 @@ Haha! Good one. Ironically.. #CLASS: purple
 
 + [(He's laughing.. Good.. I should remind him of my biggest concern..)] 
 
-- My biggest concern is, sharing with happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
 
 Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
