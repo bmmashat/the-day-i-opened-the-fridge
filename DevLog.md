@@ -26,7 +26,7 @@ I spent more time polishing part one and reducing it to 113 lines! (was 196 line
 ### Day 6 (May 18, 2019)
 Based on some feedvack (3 people), they felt the conversation flow was natural, so I decided to keep it as it is for now and start working on part 2. But before that, I added some styles to make it easier for reading (see picture below). I changed the background to dark, and I finally managed to change the color of the text! Phew! Thanks to Chrome's "Inspect" option, I was able to see how [this game](https://h-anklebone.itch.io/a-song-for-kharon) had styles. Turns out ink already had support of tags (#CLASS: <whatever>) and then you just add the class customization in the CSS file. 
 
-![screenshot](https://github.com/bmmashat/the-day-i-opened-the-fridge/blob/master/Ink/darkcolors.jpg "screenshot of colros")
+![screenshot](https://github.com/bmmashat/the-day-i-opened-the-fridge/blob/master/screenshots/darkcolors.jpg "screenshot of colros")
 
 
 ### Day 7 (May 19, 2019) 
@@ -58,7 +58,8 @@ Turns out Ink had a speical formatting called [weave](https://github.com/inkle/i
 +++ [(Ah.. My head.. My heart.. My hand.. I'm literally shaking..)] 
 ```
 This way each line can be displayed at once on the screen then proceed to the next, without having to knot anything. <br>
-Another problem I didn't account for from the very beginning is when the player finishes from one part, the entire part should disappear and move to a new one. Ink currently doesn't support that (as far as I know). Fortunately, I found someone developed a "Twine-Like" feeling [template](https://github.com/wickedlyethan/ink-soaked) for Ink, where the entire text on screen disappear after making a choice. 
+Another problem I didn't account for from the very beginning is when the player finishes from one part, the entire part should disappear and move to a new one. Ink currently doesn't support that (as far as I know). Fortunately, I found someone developed a "Twine-Like" feeling [template](https://github.com/wickedlyethan/ink-soaked) for Ink, where the entire text on screen disappear after making a choice. <br>
+That being said, I have a new build of the first 3 parts combined. It is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-three-parts). Next: write part 4!
 
 ### Day 10 (May 26, 2019)
 I realized this game is taking me longer than I expected.. Yeah.. Game dev.. Anyways, I didn't get to write or even start part 4 today as I planned, but I started sending the first 3 parts to some friends to get some feedback. 
