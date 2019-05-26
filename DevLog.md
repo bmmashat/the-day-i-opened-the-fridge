@@ -36,10 +36,32 @@ I started and FINISHED part two. It's a draft though, I'm still not satisfied wi
 Finished part 3. I'm not very satisified with it. I wrote it in rush. But at this point, I just want to finish the whole game, and then I will work on changing/improving the conversation. Part 3 is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-three). Next: combine part 1,2,3 together in one bulid.
 
 ### Day 9 (May 25, 2019) 
-One problem I didn't account for is.. write about toggleflow, combining, the use of (-) 
+Okay.. I'm very embarrassed for using Ink in a very dumb way. I created a "knot" for nearly every line. Yup, I kept knoting and diverting the whole conversation =) Yup, like this: 
+```
+== start == 
+-> next0
+
++ [(I wasn't supposed to see it)] -> blueThink0
+
+== blueThink0 == 
++ [(This wasn't supposed to happen)] -> blueThink1
+
+== blueThink1 == 
++ [(Ah.. My head.. My heart.. My hand.. I'm literally shaking..)] -> blueThink2
+
+```
+
+Turns out Ink had a speical formatting called [weave](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#part-2-weave), which gives the ability to "connect" lines if it's a "normal" line, which I did for the rest of the conversation. It doesn't work if it's a choice though. The only way I could make it work is to use nested choices like following: 
+```
++ [(I wasn't supposed to see it)] 
+++ [(This wasn't supposed to happen)] 
++++ [(Ah.. My head.. My heart.. My hand.. I'm literally shaking..)] 
+```
+This way each line can be displayed at once on the screen then proceed to the next, without having to knot anything. <br>
+Another problem I didn't account for from the very beginning is when the player finishes from one part, the entire part should disappear and move to a new one. Ink currently doesn't support that (as far as I know). Fortunately, I found someone developed a "Twine-Like" feeling [template](https://github.com/wickedlyethan/ink-soaked) for Ink, where the entire text on screen disappear after making a choice. 
 
 ### Day 10 (May 26, 2019)
-finished part 4 (hopefully) 
+I realized this game is taking me longer than I expected.. Yeah.. Game dev.. Anyways, I didn't get to write or even start part 4 today as I planned, but I started sending the first 3 parts to some friends to get some feedback. 
 
 #### TODO: 
 ##### Next: 
