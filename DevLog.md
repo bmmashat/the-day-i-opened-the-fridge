@@ -62,18 +62,12 @@ Another problem I didn't account for from the very beginning is when the player 
 That being said, I have a new build of the first 3 parts combined. It is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-three-parts). Next: write part 4!
 
 ### Day 10 (May 26, 2019)
-I realized this game is taking me longer than I expected.. Yeah.. Game dev.. Anyways, I didn't get to write or even start part 4 today as I planned, but I started sending the first 3 parts to some friends to get some feedback. 
+I realized this game is taking me longer than I expected.. Yeah.. Game dev.. Anyways, I send the first 3 parts to some friends and got pretty good feedback. I also started writing part 4 and I didn't expect it would affect me emotionally a lot.. I couldn't sleep until I finished one ending. And yes, I stayed up all night, and all morning. I went to bed at 8 am. It was very intense on me. Although I wasn't satisified with it, finishing it gave me the feeling of victory.. It is accessible [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-part-4).
+
+### Day 11 (May 27, 2019)
+This is the first thing I headed towards once I woke up. Part 4 felt very rushed so I spend some time editing and ploishing it until I reached an appropriate level of satisifaction. I sent it to more friends and received couple of amazing feedback from amazing friends. It was very intense on them as well, which is good, because that was my itention. I felt suceess. Also, I decided not to write another ending (the happy ending). The ending I wrote felt more suitable to the story and to the emotions and feelings I wanted to convey. <br>
+Damn.. That was hell of a ride.. I can't beleive I made this.. 
 
 #### TODO: 
-##### Next: 
-- [x] update theme & colors for part one.
-- [x] write part 3 
-- [x] style: colors
-- [x] style: ActLikeTwine
-- [x] combine part 1,2, & 3
-- [ ] wrtie part 4 
-##### Then:
-- [ ] implement the ending (audio + dedication)
-- [ ] combine everything together in Ink
-- [ ] edits: fix spelling errors in part 2. Maybe some phrases (emotions.. gaurd down..)
-
+- [ ] combine all parts in one build.
+- [ ] proofread. 
