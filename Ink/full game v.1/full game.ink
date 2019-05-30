@@ -4,8 +4,11 @@
 -> start 
 
 == start == 
-+ [Start] -> act_select
++ [Start] -> warning
 
+== warning == 
+
++ [Content Warning: relationship conflicts] -> act_select
 
 == act_select == 
 + (act1) [Act 1: The Day I Opened The Fridge] -> start_act_one  #toggleFlow
@@ -19,13 +22,40 @@
 
 + (act1) [Act 1: The Day I Opened The Fridge]  #toggleFlow
 
-- Hey! For reasons I'll explain later, I'm in the city! And I know you're at practice, but I was wondering, can I go to your apartment to use the bathroom? #CLASS: blue
+
+Hey
 
 + [next] 
 
-- Hello dear! Omg you're in the city!! For how long? And yes of course! Do you have the key? #CLASS: purple
+Hello dear! How did the interview go? 
 
-I do. Thanks :) I'll talk to you after practice! #CLASS: blue
++ [next] 
+
+Will tell you about later when I head home. Listen, I mean read, I know you're at practice, but I was wondering, can I pass by your apartment to use the bathroom?
+
++ [next] 
+
+Of course! Do you have the key? 
+
++ [next] 
+
+Yes. Also, I made your favorite sandwich for lunch today. I remembered you liked it, a lot. So I saved you a half :)
+
++ [next] 
+
+Omg!! The chicken with orange sandwich?? :") You're so sweet! You didn't have to do that. Last weekend's dessert was more than enough. 
+
++ [next] 
+
+I didn't have to do lots of things to you :P Anyways.. It sucks that I'm coming all the way to the city but I won't be able to see you :(
+
++ [next] 
+
+5 more days my dear.. You're gonna come and we're gonna to enjoy the concert. I really can't wait.
+
++ [next] 
+
+Me neither <"3
 
 + [Several minutes later..]
 
