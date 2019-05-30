@@ -102,21 +102,32 @@
 
             // From Ethan - checks the current tag and creates different elements
             // Add as many as you want using this pattern!
-            if (story.currentTags[0] != undefined){
+            if (story.currentTags[0] != undefined)
+            {
                 var tags = story.currentTags;
-                for (var i = 0; i < tags.length; i++) {
+                for (var i = 0; i < tags.length; i++) 
+                {
                     if (tags[i] == ("h1") || tags[i] == ("h2") || tags[i] == ("h3") || tags[i] == ("h4") || tags[i] == ("h5") || tags[i] == ("h6"))
                     {
                         var paragraphElement = document.createElement(tags[i]);
                     }
                 }
-                if (tags.includes("toggleFlow")){
+
+                if (tags.includes("toggleFlow"))
+                {
                     toggleFlow();
                 }
-                else if(tags.includes("audio")){
-                    playAudio();
+                else if(tags.includes("audio_act4"))
+                {
+                    playAudio("the scientist");
+                }
+                else if(tags.includes("audio_end"))
+                {
+                    playAudio("noOne");
                 }
             }
+
+
 
             // Fade in paragraph after a short delay
             showAfter(delay, paragraphElement);

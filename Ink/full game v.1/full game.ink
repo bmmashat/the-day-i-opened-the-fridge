@@ -11,7 +11,7 @@
 + (act1) [Act 1: The Day I Opened The Fridge] -> start_act_one  #toggleFlow
 + (act2) [Act 2: Why Did You Open The Fridge?] -> start_act_two  #toggleFlow
 + (act3) [Act 3: I Didn't Open The Fridge] -> start_act_three  #toggleFlow
-+ (act4) [Act 4: I Didn't Love The Fridge, I Loved You] -> start_act_four #toggleFlow
++ (act4) [Act 4: Come Up to Meet You] -> start_act_four #toggleFlow
 
 ////////////// START OF ACT ONE ////////////// 
 
@@ -270,7 +270,7 @@ Good night #CLASS: blue
 - I know, and thats why I want to talk, to help you navigate this busy time. I suppose when your plate is this busy, the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple 
 
 
- ______________________ End of Act 1 ______________________ #toggleFlow
+ _____ End of Act 1 _____ #toggleFlow
  
  ////////////// END OF ACT ONE ////////////// 
   
@@ -416,7 +416,7 @@ How hard it is to forget and move on? #CLASS: blue
 
 + [(Given the fact this is the first time she acts like this in our relationship, it's very hard. Besides, I'm starting to get scared that she's not really mad because of the fridge..)] 
 
-- Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset.
+- Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. #CLASS: purple
 
 + [(I truly beleive we can't solve this without talking about it. Even if it turns out she saw it, I can't make sure of that before confirming.)] 
 
@@ -566,7 +566,7 @@ Good night #CLASS: blue
 
 + ["I hope you have a good night dear.. I really do."]
 
-- ______________________ End of Act 2 ______________________ #toggleFlow
+- _____ End of Act 2 _____ #toggleFlow
 
 
 ////////////// END OF ACT TWO ////////////// 
@@ -892,7 +892,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 + [(There is nothing you can do to make me feel better at this point.. The ship has sailed..)] 
 
 // end of actual conversation
-- ______________________ End of Act 3 ______________________ #toggleFlow
+- _____ End of Act 3 _____ #toggleFlow
 
 
  ////////////// END OF ACT TWO ////////////// 
@@ -907,17 +907,342 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 ////////////// START OF ACT FOUR ////////////// 
 
  
- + [Start Act 4] -> start_act_four
+ + [Start Act 4] -> start_act_four 
  
  
  == start_act_four == 
- + (act4) [Act 4: I Didn't Love The Fridge, I Loved You] #toggleFlow 
+ + (act4) [Act 4: Come Up to Meet You, Tell You I'm Sorry] #audio_act4
  
- Writing in progres.. Stay tuned! 
+++ [- The Scientist] -> narrator #toggleFlow
+ 
+== narrator == 
++ [Purple calls] 
+++ [Blue picks up]
++++ [Purple starts talking]
+++++ [Blue starts listening]
++++++ [He reminds her about the importance of communication to keep the relationship healthy]
+++++++ [She reminds him that being honest might put the relationship in danger] -> option1
 
-  ______________________ End of Act 4 ______________________
+== option1 == 
++ [(Choice 1: Purple promises her nothing will be affected)] -> option2
++ [(Choice 2: Purple gets more concerned and is hesitant to promise)] -> option2
 
 
+== option2 == 
++ [(Choice 1: Blue decides to tell the truth)] -> next_truth
++ [(Choice 2: Blue decides NOT to tell the truth)] -> next_no_truth
 
--> END
+/////////////// TRUTH /////////////// 
+
+== next_truth == 
++ [Blue starts, more like (continues), crying]
+++ [Purple understands she needs some space]
++++ [He doesn’t want to push her more]
+++++ [He asks her to take as much time as she needs & text him whenever she feels like it]
++++++ [Blue appreciates it, and appreciates him]
+++++++ [They hang up]
++++++++ [Two week later..] -> conversation_truth
+
+== conversation_truth == 
+I didn’t open the fridge. #CLASS: blue
+
++ [next] 
+
+- I’m confused. #CLASS: purple 
+
++ [next] 
+
+- I saw it. #CLASS: blue
+
++ [next] 
+
+- ? #CLASS: purple 
+
++ [next] 
+
+- I know I agreed to this from the very beginning, but seeing the two glasses of wine made me.. I just couldn’t handle it.. #CLASS: blue
+
++ [next] 
+
+- God.. I thought being in an open relationship is the best option for us.. #CLASS: purple
+
++ [next] 
+
+- One sided open relationship* #CLASS: blue
+
++ [next] 
+
+- This is not gonna work.. #CLASS: purple
+
++ [next] 
+
+- What do you mean? Are you letting go of us already?! I’m over it by now. Just don’t do it again please. #CLASS: blue
+
++ [next] 
+
+- No.. You were so not okay with it. I’ve never seen you this mad before.. #CLASS: purple
+
++ [next] 
+
+- You promised telling the truth won’t affect anything! #CLASS: blue
+
++ [next] 
+
+- I guess I was wrong.. Continuing this relationship is certainly not healthy.. I hope you understand. #CLASS: purple
+
++ [next] 
+
+- But I told you I’m okay with it as long as I don’t know about it! You did a bad job at hiding it! #CLASS: blue
+
++ [next] 
+
+- I’m sorry. I’m very sorry you had to go through this experience. And I’m sorry I got you into this. #CLASS: purple
+
++ [next] 
+
+- You’re giving up? #CLASS: blue
+
++ [next] 
+
+- You shouldn’t have said yes to be in an open relationship if you’re not okay with it. #CLASS: purple
+
++ [next] 
+
+- This is the only option you gave to me! It’s not like I had a choice! #CLASS: blue
+
++ [next] 
+
+- But I told you we can be friends! #CLASS: purple
+
++ [next]
+
+- Seriously? You’re asking me to downgrade you to just “friends”? #CLASS: blue 
+
++ [next] 
+
+- You know it’s out of my hands and I can’t do anything about it. #CLASS: purple
+
++ [next] 
+
+- You told me, since you can’t have a future with anyone from this country, it doesn’t make sense for you not to see other people as well. Even though this means our relationship would have an expiration date, then what’s wrong of being together until then? #CLASS: blue
+
++ [next] 
+
+- You are very important to me. And I care about you, deeply care about you. #CLASS: purple
+
++ [next] 
+
+- ... #CLASS: blue
+
++ [next]
+
+- I hate that we had something special, very special. But this is not going to work. It’s very unhealthy. We will grow to hate each other, which is the last thing I want to happen. #CLASS: purple
+
++ [next]
+
+- I can’t believe this is it.. #CLASS: blue 
+
++ [next] 
+
+- I’m sorry.. Believe me this is the right thing to do.. I have my best interest in you, and I want nothing but the best for you. I’m only doing this because I care about you. #CLASS: purple 
+
++ [next]
+
+- I thought "we sounded like a movie, looked like a novel, and we both were enjoying it.." #CLASS: blue 
+
++ [next]
+
+- I was absolutely enjoying it.. #CLASS: purple 
+
++ [next]
+
+- Damn.. It's funny even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
+
++ [next] 
+
+- ... #CLASS: purple 
+
++ [next] 
+
+- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. Take good care of yourself. You deserve nothing but the best. #CLASS: purple
+
++ [Few mintues later..] -> last #audio_end
+
+
+/////////////// NO TRUTH /////////////// 
+
+== next_no_truth == 
++ [Blue starts, more like (continues), crying]
+++ [Purple understands she needs some space]
++++ [He doesn’t want to push her more]
+++++ [He asks her to take as much time as she needs & text him whenever she feels like it]
++++++ [Blue appreciates it, and appreciates him]
+++++++ [They hang up]
++++++++ [Two week later..] -> conversation_no_truth
+
+== conversation_no_truth == 
+
+You didn’t open the fridge. #CLASS: purple 
+
++ [next]
+
+- ? #CLASS: blue 
+
++ [next] 
+
+- You were mad because when you came, you saw the 2 glasses of wine. But you blamed it on the fridge to divert the problem. Am I right?. #CLASS: purple 
+
++ [next] 
+
+- ... #CLASS: blue
+
++ [next] 
+
+- I know I agreed to this from the very beginning, but seeing the two glasses of wine made me.. I just couldn’t handle it.. #CLASS: blue
+
++ [next] 
+
+- God.. I thought being in an open relationship is the best option for us.. #CLASS: purple
+
++ [next] 
+
+- One sided open relationship* #CLASS: blue
+
++ [next] 
+
+- This is not gonna work.. #CLASS: purple
+
++ [next] 
+
+- What do you mean? Are you letting go of us already?! I’m over it by now. Just don’t do it again please. #CLASS: blue
+
++ [next] 
+
+- No.. You were so not okay with it. I’ve never seen you this mad before.. #CLASS: purple
+
++ [next] 
+
+- You promised telling the truth won’t affect anything! #CLASS: blue
+
++ [next] 
+
+- I guess I was wrong.. Continuing this relationship is certainly not healthy.. I hope you understand. #CLASS: purple
+
++ [next] 
+
+- But I told you I’m okay with it as long as I don’t know about it! You did a bad job at hiding it! #CLASS: blue
+
++ [next] 
+
+- I’m sorry. I’m very sorry you had to go through this experience. And I’m sorry I got you into this. #CLASS: purple
+
++ [next] 
+
+- You’re giving up? #CLASS: blue
+
++ [next] 
+
+- You shouldn’t have said yes to be in an open relationship if you’re not okay with it. #CLASS: purple
+
++ [next] 
+
+- This is the only option you gave to me! It’s not like I had a choice! #CLASS: blue
+
++ [next] 
+
+- But I told you we can be friends! #CLASS: purple
+
++ [next]
+
+- Seriously? You’re asking me to downgrade you to just “friends”? #CLASS: blue 
+
++ [next] 
+
+- You know it’s out of my hands and I can’t do anything about it. #CLASS: purple
+
++ [next] 
+
+- You told me, since you can’t have a future with anyone from this country, it doesn’t make sense for you not to see other people as well. Even though this means our relationship would have an expiration date, then what’s wrong of being together until then? #CLASS: blue
+
++ [next] 
+
+- You are very important to me. And I care about you, deeply care about you. #CLASS: purple
+
++ [next] 
+
+- ... #CLASS: blue
+
++ [next]
+
+- I hate that we had something special, very special. But this is not going to work. It’s very unhealthy. We will grow to hate each other, which is the last thing I want to happen. #CLASS: purple
+
++ [next]
+
+- I can’t believe this is it.. #CLASS: blue 
+
++ [next] 
+
+- I’m sorry.. Believe me this is the right thing to do.. I have my best interest in you, and I want nothing but the best for you. I’m only doing this because I care about you. #CLASS: purple 
+
++ [next]
+
+- I thought "we sounded like a movie, looked like a novel, and we both were enjoying it.." #CLASS: blue 
+
++ [next]
+
+- I was absolutely enjoying it.. #CLASS: purple 
+
++ [next]
+
+- Damn.. It's funny even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
+
++ [next] 
+
+- ... #CLASS: purple 
+
++ [next] 
+
+- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. Take good care of yourself. You deserve nothing but the best. #CLASS: purple
+
++ [Few mintues later..] -> last #audio_end
+
+
+== last ==
+
+- Purple.. #CLASS: blue #CLASS: delayedShow 
+
+- Blue.. #CLASS: purple #CLASS: delayedShow1 
+
+- … #CLASS: blue #CLASS: delayedShow2
+
+- I loved you.  #CLASS: blue #CLASS: delayedShow3 
+
+-> love
+
+== love == 
+
+"I loved you" she told him, as she's not allowed to love him anymore. She used the past tense, because the past has been very intense, and the present is, *kiss*, not perfect. #CLASS: delayedShow4 #CLASS: love
+-> credits
+
+== credits == 
+A game by Bayan Mashat #CLASS: delayedShow5 #CLASS: credits
+
+Dedicated to.. #CLASS: delayedShow6 #CLASS: credits
+
+Every “Purple” out there.. #CLASS: delayedShow7 #CLASS: credits
+
+Because  #CLASS: delayedShow8 #CLASS: credits
+-> red
+
+== red == 
+“No one will take your place in my heart.." #CLASS: delayedShow9 #CLASS: red
+
+"How could you let go of a heart that loves you this much?" #CLASS: delayedShow10 #CLASS: red
+
+"No one will TAKE your place in my heart!" #CLASS: delayedShow11 #CLASS: red
+
+"Tell me, my love, tell me, my love..” #CLASS: delayedShow12 #CLASS: red
+
+
+-> DONE -> END
 
