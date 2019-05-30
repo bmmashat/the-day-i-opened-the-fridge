@@ -8,7 +8,7 @@
 
 == warning == 
 
-+ [Content Warning: relationship conflicts] -> act_select
++ [Content Warning: Relationship Conflicts] -> act_select
 
 == act_select == 
 + (act1) [Act 1: The Day I Opened The Fridge] -> start_act_one  #toggleFlow
@@ -34,7 +34,7 @@
 
 + [next] 
 
-- Will tell you about later when I head home. Listen, I mean read, I know you're at practice, but I was wondering, can I pass by your apartment to use the bathroom? #CLASS: blue
+- Will tell later. Listen, I mean read, I know you're at practice, but I was wondering, can I pass by your apartment to use the bathroom? #CLASS: blue
 
 + [next] 
 
@@ -54,7 +54,7 @@
 
 + [next] 
 
-- 5 more days my dear.. You're gonna come and we're gonna to enjoy the concert. I really can't wait. #CLASS: purple
+- 5 more days my dear.. You're gonna come and we're gonna enjoy the concert. I really can't wait. #CLASS: purple
 
 + [next] 
 
@@ -134,7 +134,7 @@ What's wrong my dear? Please talk to me, it’s not healthy to just ignore that.
 
 + [next] 
 
-- Not talking is my best option. Beleive me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
+- Not talking is my best option. Believe me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
 
 Not true #CLASS: purple
 
@@ -248,7 +248,7 @@ You’re close and special to me, very special #CLASS: purple
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
-Says you, the CTO and co-founder of the emotional health provider texting-based app. #CLASS: blue
+Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
 
 Haha! Good one. Ironically.. #CLASS: purple
 
@@ -260,7 +260,7 @@ Is there anything you can ask me to make sure that won't happen? Maybe you’re 
 
 + [next] 
 
-- I don't know. These days, I have a very small belief that sometimes honest is not the best policy.. #CLASS: blue
+- I don't know. These days, I have a very small belief that sometimes honesty is not the best policy.. #CLASS: blue
 And keeping some things hidden are way better and healthier sometimes.. #CLASS: blue
 
 It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
@@ -404,7 +404,7 @@ Why are you making it a big deal? #CLASS: blue
 
 - What's wrong my dear? Please talk to me, it’s not healthy to just ignore that.. #CLASS: purple
 
-Not talking is my best option. Beleive me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
+Not talking is my best option. Believe me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
 
 + [("Not true. The more abrupt and short talks the more I get upset")] 
 
@@ -453,7 +453,7 @@ How hard it is to forget and move on? #CLASS: blue
 
 - Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. #CLASS: purple
 
-+ [(I truly beleive we can't solve this without talking about it. Even if it turns out she saw it, I can't make sure of that before confirming.)] 
++ [(I truly believe we can't solve this without talking about it. Even if it turns out she saw it, I can't make sure of that before confirming.)] 
 
 - I care about you. I really do. So I need to know what upsets you to avoid it. You also need to know what upsets me, if you care about me.  #CLASS: purple
 
@@ -542,7 +542,7 @@ I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 - Please let's have a call. I hate texting. #CLASS: purple
 
-Says you, the CTO and co-founder of the emotional health provider texting-based app. #CLASS: blue
+Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
 
 + [(She always has her ways to make me laugh..)] 
 
@@ -554,10 +554,10 @@ My biggest concern is, sharing what happened with you will affect our relationsh
 
 - Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
-I don't know. These days, I have a very small belief that sometimes honest is not the best policy.. #CLASS: blue
+I don't know. These days, I have a very small belief that sometimes honesty is not the best policy.. #CLASS: blue
 And keeping some things hidden are way better and healthier sometimes.. #CLASS: blue
 
-+ [(Hard to agree on this. But since I beleive in the importance of this call, I'll have to allow it even if it was one sided..)] 
++ [(Hard to agree on this. But since I believe in the importance of this call, I'll have to allow it even if it was one sided..)] 
 
 - It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
 
@@ -599,7 +599,7 @@ Good night #CLASS: blue
 
 - I know, and thats why I want to talk, to help you navigate this busy time. I suppose when your plate is this busy, the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple
 
-+ ["I hope you have a good night dear.. I really do."]
++ [(I hope you have a good night dear.. I really do.)]
 
 - _____ End of Act 2 _____ #toggleFlow
 
@@ -661,7 +661,7 @@ Might be false assumptions, like last time #CLASS: purple
 
 + [*Incoming call from Purple*]  
 
-++ [(I can't answer his call. I'm gonna outburst on him, which is not a wise thing to do..)] 
+++ [(I can't answer his call. I'm gonna snap on him, which is not a wise thing to do..)] 
 
 - Did you get my call? #CLASS: purple
 
@@ -741,7 +741,7 @@ What's wrong my dear? Please talk to me, it’s not healthy to just ignore that.
 
 + [(Ah.. I know.. I know it's not healthy.. And I know you care.. Should I just say it..? No.. Don't guard down your emotions blue.. You're gonna ruin this. You're gonna end it. You're gonna lose it. You're gonna lose him!)] 
 
-- Not talking is my best option. Beleive me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
+- Not talking is my best option. Believe me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
 
 Not true #CLASS: purple
 
@@ -866,7 +866,7 @@ You’re close and special to me, very special #CLASS: purple
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
-Says you, the CTO and co-founder of the emotional health provider texting-based app. #CLASS: blue
+Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
 
 Haha! Good one. Ironically.. #CLASS: purple
 
@@ -876,9 +876,9 @@ Haha! Good one. Ironically.. #CLASS: purple
 
 Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
-+ [(Beleive me I'm 100% sure it will affect us.. That's why honesty is not the best policy.)] 
++ [(Believe me I'm 100% sure it will affect us.. That's why honesty is not the best policy.)] 
 
-- I don't know. These days, I have a very small belief that sometimes honest is not the best policy.. #CLASS: blue
+- I don't know. These days, I have a very small belief that sometimes honesty is not the best policy.. #CLASS: blue
 And keeping some things hidden are way better and healthier sometimes.. #CLASS: blue
 
 It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
@@ -946,9 +946,11 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
  
  
  == start_act_four == 
- + (act4) [Act 4: Come Up to Meet You, Tell You I'm Sorry] #audio_act4
+ + (act4) [Act 4: Come Up to Meet You] #audio_act4
  
-++ [- The Scientist] -> narrator #toggleFlow
+++ ["Come Up to Meet You, Tell You I'm Sorry"] 
+ 
++++ [- The Scientist] -> narrator #toggleFlow
  
 == narrator == 
 + [Purple calls] 
@@ -959,7 +961,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 ++++++ [She reminds him that being honest might put the relationship in danger] -> option1
 
 == option1 == 
-+ [(Choice 1: Purple promises her nothing will be affected)] -> option2
++ [(Choice 1: Purple promises her no matter what, this won't be the last to see her)] -> option2
 + [(Choice 2: Purple gets more concerned and is hesitant to promise)] -> option2
 
 
@@ -976,7 +978,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 ++++ [He asks her to take as much time as she needs & text him whenever she feels like it]
 +++++ [Blue appreciates it, and appreciates him]
 ++++++ [They hang up]
-+++++++ [Two week later..] -> conversation_truth
++++++++ [Two weeks later..] -> conversation_truth
 
 == conversation_truth == 
 I didn’t open the fridge. #CLASS: blue
@@ -1027,7 +1029,7 @@ I didn’t open the fridge. #CLASS: blue
 
 + [next] 
 
-- But I told you I’m okay with it as long as I don’t know about it! You did a bad job at hiding it! #CLASS: blue
+- But I told you I’m okay with it as long as I don’t know about your other relationships! You did a bad job at hiding it! #CLASS: blue
 
 + [next] 
 
@@ -1057,9 +1059,21 @@ I didn’t open the fridge. #CLASS: blue
 
 - You know it’s out of my hands and I can’t do anything about it. #CLASS: purple
 
++ [next]
+
+- We have been together exclusively for a year! It is in your hands! #CLASS: blue 
+
 + [next] 
 
-- You told me, since you can’t have a future with anyone from this country, it doesn’t make sense for you not to see other people as well. Even though this means our relationship would have an expiration date, then what’s wrong of being together until then? #CLASS: blue
+- And then I told you since I can't have future with anyone from this country, it doesn't make sense for me not to see other people.. You agreed to that! #CLASS: purple 
+
++ [next]
+
+- And this was my only option to keep being with you. #CLASS: blue
+
++ [next] 
+
+- I certainly can't control what you want. And even though agreeing to this means our relationship would have an expiration date, why not be together until then? We enjoy being together and we are learning and growing with each other.. #CLASS: blue 
 
 + [next] 
 
@@ -1091,7 +1105,7 @@ I didn’t open the fridge. #CLASS: blue
 
 + [next]
 
-- Damn.. It's funny even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
+- Damn.. Even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
 
 + [next] 
 
@@ -1099,7 +1113,15 @@ I didn’t open the fridge. #CLASS: blue
 
 + [next] 
 
-- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. Take good care of yourself. You deserve nothing but the best. #CLASS: purple
+- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. #CLASS: purple
+
++ [next] 
+
+- Take good care of yourself. #CLASS: purple
+
++ [next] 
+
+- You deserve nothing but the best. #CLASS: purple
 
 + [Few mintues later..] -> last #audio_end
 
@@ -1113,7 +1135,7 @@ I didn’t open the fridge. #CLASS: blue
 ++++ [He asks her to take as much time as she needs & text him whenever she feels like it]
 +++++ [Blue appreciates it, and appreciates him]
 ++++++ [They hang up]
-+++++++ [Two week later..] -> conversation_no_truth
++++++++ [Two weeks later..] -> conversation_no_truth
 
 == conversation_no_truth == 
 
@@ -1125,7 +1147,7 @@ You didn’t open the fridge. #CLASS: purple
 
 + [next] 
 
-- You were mad because when you came, you saw the 2 glasses of wine. But you blamed it on the fridge to divert the problem. Am I right?. #CLASS: purple 
+- You were mad because when you came, you saw the 2 glasses of wine. But you blamed it on the fridge to divert the problem. Am I right? #CLASS: purple 
 
 + [next] 
 
@@ -1165,7 +1187,7 @@ You didn’t open the fridge. #CLASS: purple
 
 + [next] 
 
-- But I told you I’m okay with it as long as I don’t know about it! You did a bad job at hiding it! #CLASS: blue
+- But I told you I’m okay with it as long as I don’t know about your other relationships! You did a bad job at hiding it! #CLASS: blue
 
 + [next] 
 
@@ -1191,13 +1213,21 @@ You didn’t open the fridge. #CLASS: purple
 
 - Seriously? You’re asking me to downgrade you to just “friends”? #CLASS: blue 
 
++ [next]
+
+- We have been together exclusively for a year! It is in your hands! #CLASS: blue 
+
 + [next] 
 
-- You know it’s out of my hands and I can’t do anything about it. #CLASS: purple
+- And then I told you since I can't have future with anyone from this country, it doesn't make sense for me not to see other people.. You agreed to that! #CLASS: purple 
+
++ [next]
+
+- And this was my only option to keep being with you. #CLASS: blue
 
 + [next] 
 
-- You told me, since you can’t have a future with anyone from this country, it doesn’t make sense for you not to see other people as well. Even though this means our relationship would have an expiration date, then what’s wrong of being together until then? #CLASS: blue
+- I certainly can't control what you want. And even though agreeing to this means our relationship would have an expiration date, why not be together until then? We enjoy being together and we are learning and growing with each other.. #CLASS: blue 
 
 + [next] 
 
@@ -1229,7 +1259,7 @@ You didn’t open the fridge. #CLASS: purple
 
 + [next]
 
-- Damn.. It's funny even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
+- Damn.. Even though our relationship felt like a book, we weren't on the same page all along.. #CLASS: blue 
 
 + [next] 
 
@@ -1237,7 +1267,15 @@ You didn’t open the fridge. #CLASS: purple
 
 + [next] 
 
-- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. Take good care of yourself. You deserve nothing but the best. #CLASS: purple
+- I don’t want my last message to be just 3 dots. But as sad as this moment is, I truly feel blessed that I have met you. You have impacted my life in so many ways you might not even know of. #CLASS: purple
+
++ [next] 
+
+- Take good care of yourself. #CLASS: purple
+
++ [next] 
+
+- You deserve nothing but the best. #CLASS: purple
 
 + [Few mintues later..] -> last #audio_end
 
