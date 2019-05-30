@@ -20,46 +20,51 @@
 
 == start_act_one == 
 
+-> intro
+
+== intro == 
+
 + (act1) [Act 1: The Day I Opened The Fridge]  #toggleFlow
 
-
-Hey
-
-+ [next] 
-
-Hello dear! How did the interview go? 
+- Hey! #CLASS: blue
 
 + [next] 
 
-Will tell you about later when I head home. Listen, I mean read, I know you're at practice, but I was wondering, can I pass by your apartment to use the bathroom?
+- Hello dear! How did the interview go? #CLASS: purple
 
 + [next] 
 
-Of course! Do you have the key? 
+- Will tell you about later when I head home. Listen, I mean read, I know you're at practice, but I was wondering, can I pass by your apartment to use the bathroom? #CLASS: blue
 
 + [next] 
 
-Yes. Also, I made your favorite sandwich for lunch today. I remembered you liked it, a lot. So I saved you a half :)
+- Of course! Do you have the key? #CLASS: purple
 
 + [next] 
 
-Omg!! The chicken with orange sandwich?? :") You're so sweet! You didn't have to do that. Last weekend's dessert was more than enough. 
+- Yes. Also, I made your favorite sandwich for lunch today. I remembered you liked it, a lot. So I saved you a half :) #CLASS: blue
 
 + [next] 
 
-I didn't have to do lots of things to you :P Anyways.. It sucks that I'm coming all the way to the city but I won't be able to see you :(
+- Omg!! The chicken with orange sandwich?? :") You're so sweet! You didn't have to do that. Last weekend's dessert was more than enough. #CLASS: purple
 
 + [next] 
 
-5 more days my dear.. You're gonna come and we're gonna to enjoy the concert. I really can't wait.
+- I didn't have to do lots of things to you :P Anyways.. It sucks that I'm coming all the way to the city but I won't be able to see you :( #CLASS: blue
 
 + [next] 
 
-Me neither <"3
+- 5 more days my dear.. You're gonna come and we're gonna to enjoy the concert. I really can't wait. #CLASS: purple
 
-+ [Several minutes later..]
++ [next] 
 
-- Cooking for you is never happening again. At least for a good while. #CLASS: blue
+- Me neither <"3 #CLASS: blue
+
++ [Several minutes later..] -> conflict_start
+
+== conflict_start ==
+
+Cooking for you is never happening again. At least for a good while. #CLASS: blue
 
 + [next]
 
