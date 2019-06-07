@@ -70,9 +70,15 @@ Damn.. That was hell of a ride.. I can't beleive I made this..
 
 ### Days XX (May 28 - Jun 4, 2019)
 So.. I shared the game with ~70 people, got feedback from ~34 people. They were all rich and genuine and I'm very grateful for that. I got feedback for both the story/script, and gameplay mechanics. They made me very very very happy. However, to be very very very honest, the feedback that made me the happiest was from the CREATOR OF BURY ME MY LOVE!!!!!!!!!!!!!!! I still can't believe it. I DMed him on Twitter and he was nice and kind enough to play it and give me his sincere opinion. I will be forerver flattered. <br> 
+The most common feedback were:
+- add more choices
+- maybe reduce the text a little bit
+- add audio
+<a/>
 Minor things I changed based on feedback: 
 - Polished Act 4. Added more detailes and streched it a little bit because it felt so rushed. 
 - Some spelling mistakes. 
+<a/>
 Next, I just need to make final grammar & spelling fixes, write a postmortem, make a public itchio page for it, and submit it to my final project TCS class! <br>
 Also, I decided to stop sharing and collecting feedback for this version.. I will work on some improvments before I share it again. Proabably that's the plan for the summer! 
 
