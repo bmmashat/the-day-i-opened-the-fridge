@@ -68,6 +68,16 @@ I realized this game is taking me longer than I expected.. Yeah.. Game dev.. Any
 This is the first thing I headed towards once I woke up. Part 4 felt very rushed so I spend some time editing and ploishing it until I reached an appropriate level of satisifaction. I sent it to more friends and received couple of amazing feedback from amazing friends. It was very intense on them as well, which is good, because that was my itention. I felt suceess. Also, I decided not to write another ending (the happy ending). The ending I wrote felt more suitable to the story and to the emotions and feelings I wanted to convey. <br>
 Damn.. That was hell of a ride.. I can't beleive I made this.. 
 
+### Days XX (May 28 - Jun 4, 2019)
+So.. I shared the game with ~70 people, got feedback from ~34 people. They were all rich and genuine and I'm very grateful for that. I got feedback for both the story/script, and gameplay mechanics. They made me very very very happy. However, to be very very very honest, the feedback that made me the happiest was from the CREATOR OF BURY ME MY LOVE!!!!!!!!!!!!!!! I still can't believe it. I DMed him on Twitter and he was nice and kind enough to play it and give me his sincere opinion. I will be forerver flattered. <br> 
+Minor things I changed based on feedback: 
+- Polished Act 4. Added more detailes and streched it a little bit because it felt so rushed. 
+- Some spelling mistakes. 
+Next, I just need to make final grammar & spelling fixes, write a postmortem, make a public itchio page for it, and submit it to my final project TCS class! <br>
+Also, I decided to stop sharing and collecting feedback for this version.. I will work on some improvments before I share it again. Proabably that's the plan for the summer! 
+
 #### TODO: 
-- [ ] combine all parts in one build.
-- [ ] proofread. 
+- [ ] proofread (grammar & spelling)
+- [ ] fix audio issue in Act 4
+- [ ] release a public beta (?) in itchio 
+- [ ] choose better colors (blue & purple)
