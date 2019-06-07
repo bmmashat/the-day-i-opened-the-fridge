@@ -74,7 +74,7 @@ The most common feedback were:
 - add more choices
 - maybe reduce the text a little bit
 - add audio
-<a/>
+<br> <br>
 Minor things I changed based on feedback: 
 - Polished Act 4. Added more detailes and streched it a little bit because it felt so rushed. 
 - Some spelling mistakes. 
