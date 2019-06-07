@@ -34,20 +34,30 @@
 
 
     <script>
+
+        var audio = new Audio();
+
         function playAudio(song)
         {
-            var audio = new Audio('noOne.mp3');
-
-            if (song == "noOne") 
+            if (song == "majda") 
             {
-                var audio = new Audio('noOne.mp3');
+                audio.src = "majda.mp3";
+                //new audio = new Audio('majda.mp3');
                 audio.play();
             }
             else if (song == "the scientist")
             {
-                var audio = new Audio('The Scientist-beg.mp3');
+                audio.src = "majda.mp3";
+                //var audio = new Audio('The Scientist-beg.mp3');
                 audio.play();
             }
+        }
+
+
+        function stopAudio()
+        {
+            //audio.src = "majda.mp3";
+            audio.pause();
         }
 
     </script>

@@ -946,7 +946,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
  
  
  == start_act_four == 
- + (act4) [Act 4: Come Up to Meet You] #audio_act4
+ + (act4) [Act 4: Come Up to Meet You] #audio_scientist
  
 ++ ["Come Up to Meet You, Tell You I'm Sorry"] 
  
@@ -972,7 +972,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 /////////////// TRUTH /////////////// 
 
 == next_truth == 
-+ [Blue starts, more like (continues), crying]
++ [Blue starts, more like (continues), crying] 
 ++ [Purple understands she needs some space]
 +++ [He doesn’t want to push her more]
 ++++ [He asks her to take as much time as she needs & text him whenever she feels like it]
@@ -981,7 +981,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 +++++++ [Two weeks later..] -> conversation_truth
 
 == conversation_truth == 
-I didn’t open the fridge. #CLASS: blue
+I didn’t open the fridge. #CLASS: blue #audio_stop
 
 + [next] 
 
@@ -1123,7 +1123,7 @@ I didn’t open the fridge. #CLASS: blue
 
 - You deserve nothing but the best. #CLASS: purple
 
-+ [Few mintues later..] -> last #audio_end
++ [Few mintues later..] -> last #audio_majda
 
 
 /////////////// NO TRUTH /////////////// 
@@ -1139,7 +1139,7 @@ I didn’t open the fridge. #CLASS: blue
 
 == conversation_no_truth == 
 
-You didn’t open the fridge. #CLASS: purple 
+You didn’t open the fridge. #CLASS: purple #audio_stop
 
 + [next]
 
@@ -1277,7 +1277,7 @@ You didn’t open the fridge. #CLASS: purple
 
 - You deserve nothing but the best. #CLASS: purple
 
-+ [Few mintues later..] -> last #audio_end
++ [Few mintues later..] -> last #audio_majda
 
 
 == last ==

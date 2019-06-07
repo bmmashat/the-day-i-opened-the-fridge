@@ -117,13 +117,17 @@
                 {
                     toggleFlow();
                 }
-                else if(tags.includes("audio_act4"))
+                else if(tags.includes("audio_scientist"))
                 {
                     playAudio("the scientist");
                 }
-                else if(tags.includes("audio_end"))
+                else if(tags.includes("audio_majda"))
                 {
-                    playAudio("noOne");
+                    playAudio("majda");
+                }
+                else if(tags.includes("audio_stop"))
+                {
+                    stopAudio();
                 }
             }
 
