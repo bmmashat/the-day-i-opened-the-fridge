@@ -192,6 +192,12 @@ p.red {
     font-style: italic;
 }
 
+p.omar {
+    color: #E0E0E0;
+    text-align: center;
+    font-style: italic;
+}
+
 
 /* Built in class if you want to write:
      The End # CLASS: end

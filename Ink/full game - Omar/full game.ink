@@ -1351,7 +1351,7 @@ A game by Bayan Mashat #CLASS: delayedShow5 #CLASS: credits
 
 Dedicated to.. #CLASS: delayedShow6 #CLASS: credits
 
-Every “Purple” out there.. #CLASS: delayedShow7 #CLASS: credits
+Omar AlEisa #CLASS: delayedShow7 #CLASS: omar
 
 Because  #CLASS: delayedShow8 #CLASS: credits
 -> red
