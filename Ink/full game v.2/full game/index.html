@@ -41,14 +41,13 @@
         {
             if (song == "majda") 
             {
+                audio.volume = 1.0;
                 audio.src = "majda.mp3";
-                //new audio = new Audio('majda.mp3');
                 audio.play();
             }
             else if (song == "the scientist")
             {
-                audio.src = "majda.mp3";
-                //var audio = new Audio('The Scientist-beg.mp3');
+                audio.src = "The Scientist-beg.mp3";
                 audio.play();
             }
         }
@@ -56,9 +55,38 @@
 
         function stopAudio()
         {
-            //audio.src = "majda.mp3";
             audio.pause();
         }
+
+        function fadeOutAudio()
+        {            
+            if(audio.volume > 0)
+            {
+                audio.volume -= 0.1;
+                setTimeout(fade, 2);
+            }
+            else 
+            {
+                audio.pause();
+            }
+        }
+
+        function audioVolumeOut(){
+           if(audio.volume){
+              var InT = 0.4;
+              var setVolume = 0;  // Target volume level for old song 
+              var speed = 0.005;  // Rate of volume decrease
+              audio.volume = InT;
+              var fAudio = setInterval(function(){
+                  InT -= speed;
+                  audio.volume = InT.toFixed(1);
+                  if(InT.toFixed(1) <= setVolume){
+                     clearInterval(fAudio);
+                     //alert('clearInterval fAudio'+ InT.toFixed(1));
+                  };
+              },70);
+           };
+       };
 
     </script>
 

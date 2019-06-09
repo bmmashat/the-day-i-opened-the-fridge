@@ -166,7 +166,8 @@ p.blue {
 }
 
 p.purple {
-    color: #8A2BE2;
+    /* color: #8A2BE2; */
+    color: #6f5ce8;
     text-align: right;
 }
 

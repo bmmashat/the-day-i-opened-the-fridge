@@ -128,10 +128,12 @@
                 else if(tags.includes("audio_stop"))
                 {
                     stopAudio();
+                } 
+                else if(tags.includes("audio_fade_out"))
+                {
+                    audioVolumeOut();
                 }
             }
-
-
 
             // Fade in paragraph after a short delay
             showAfter(delay, paragraphElement);

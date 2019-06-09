@@ -981,7 +981,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 +++++++ [Two weeks later..] -> conversation_truth
 
 == conversation_truth == 
-I didn’t open the fridge. #CLASS: blue #audio_stop
+I didn’t open the fridge. #CLASS: blue #audio_fade_out
 
 + [next] 
 
@@ -1139,7 +1139,7 @@ I didn’t open the fridge. #CLASS: blue #audio_stop
 
 == conversation_no_truth == 
 
-You didn’t open the fridge. #CLASS: purple #audio_stop
+You didn’t open the fridge. #CLASS: purple #audio_fade_out
 
 + [next]
 
