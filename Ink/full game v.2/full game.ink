@@ -1088,7 +1088,7 @@ I didn’t open the fridge. #CLASS: blue #audio_fade_out
 
 + [Next]
 
-- We have been together exclusively for a year! It is in your hands! #CLASS: blue 
+- We have been together exclusively for over a year! It is in your hands! #CLASS: blue 
 
 + [Next] 
 
