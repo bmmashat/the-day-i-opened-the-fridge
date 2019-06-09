@@ -72,6 +72,8 @@ Cooking for you is never happening again. At least for a good while. #CLASS: blu
 
 Can you take a step back and tell me what's happening in your mind first? #CLASS: purple
 
+Might be false assumptions, like last time #CLASS: purple
+
 + [next]
 
 - I opened the fridge, and I found it uneaten. #CLASS: blue
@@ -110,7 +112,8 @@ This is bad #CLASS: purple
 
 I’m really irritated, and you said "Good", which made me more upset #CLASS: purple
 
-+ [Incoming call from Purple *Blue ignores*]
++ [*Incoming call from Purple*]
+++ [*Blue ignores*]
 
 - Are you receiving my calls? #CLASS: purple
 I am. #CLASS: blue
@@ -138,7 +141,7 @@ What's wrong my dear? Please talk to me, it’s not healthy to just ignore that.
 
 Not true #CLASS: purple
 
-The more abrupt and short talks the more I get upset #CLASS: purple
+The less you talk the more upset I get. #CLASS: purple
 
 15 min call. No more. Please? #CLASS: purple
 
@@ -234,7 +237,7 @@ And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
 And always misunderstand and miscommunicate things with you #CLASS: blue
 Yes it happened once or twice but not all the time and that's not my default relationship with you #CLASS: blue
-You're the only one I extremely feel comfortable sharing some things with #CLASS: blue
+You're the only one I feel extremely comfortable sharing some things with #CLASS: blue
 And I always share with you what's happening with me when I get a chance #CLASS: blue
 You're the only person who knows a lot, a lot, a lot about me #CLASS: blue
 You're so fucking close to me, at least I consider that from my side.. And I want to keep it this way.. #CLASS: blue
@@ -248,13 +251,13 @@ You’re close and special to me, very special #CLASS: purple
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
-Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
+Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
 Haha! Good one. Ironically.. #CLASS: purple
 
 + [next] 
 
-- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's temporary and sensitive.. #CLASS: blue
 
 Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
@@ -263,13 +266,13 @@ Is there anything you can ask me to make sure that won't happen? Maybe you’re 
 - I don't know. These days, I have a very small belief that sometimes honesty is not the best policy.. #CLASS: blue
 And keeping some things hidden are way better and healthier sometimes.. #CLASS: blue
 
-It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
+It's hard to agree with you. We’ll talk tomorrow, even if it's one sided. #CLASS: purple
 
 + [next] 
 
 - Will you be free around 10-12? #CLASS: purple
 
-Try. If I didn't answer I'll probably be asleep #CLASS: blue
+Try. If I don't answer I'll probably be asleep #CLASS: blue
 
 Can you promise? #CLASS: purple
 
@@ -290,19 +293,18 @@ Thank you. So tomorrow around 10-12? #CLASS: purple
 - What a weird appointment booking mechanism. Promise then schedule.  #CLASS: blue
 
 I wasn't sure what you promised for. I had to make sure, given the possibility of miscommunication #CLASS: purple
-Wow. Look at you, being so careful #CLASS: blue
 
 Good night my dear #CLASS: purple
 
 + [next] 
 
 - One last thing. Just know that you're asking for a big thing #CLASS: blue
-There's a lot going on my plate. I'm dealing with so much these days. And I'm having finals. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
+There's a lot going on my plate. I'm dealing with so much these days. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
 Good night #CLASS: blue
 
 + [next] 
 
-- I know, and thats why I want to talk, to help you navigate this busy time. I suppose when your plate is this busy, the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple 
+- I know, and thats why I want to talk, to help you navigate this busy time. I suppose if your plate is that full then the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple 
 
 
  _____ End of Act 1 _____ #toggleFlow
@@ -322,7 +324,7 @@ Good night #CLASS: blue
  
  == start_of_actual_actual_conversation == 
  
-+[(What?! Cooking for me is not happening again? This doesn't sound good. Is she threatining me?)]
++ [(What?! Cooking for me is not happening again? This doesn't sound good. Is she threatining me?)]
 
 ++ [("Can you take a step back and tell me what's happening in your mind first? Might be false..")] 
 
@@ -334,7 +336,7 @@ I opened the fridge, and I found it uneaten. #CLASS: blue
 
 + [(What!! I did eat it!!! What does she mean?!! I need to call her for clarification)] 
 
-++ [*Incoming call from Purple*]  
+++ [*Calling Blue...*]  
 
 +++ [(Why isn't she picking up? Is it possible she's not receiving my call?)] 
 
@@ -370,7 +372,7 @@ It's good to have something you hate about me #CLASS: blue
 
 + [(I need to call her. This is very bizarre!)] 
 
-++ [(*Incoming call from Purple*)] 
+++ [*Calling Blue...*] 
 
 +++ [(Is she receiving my calls or what?)] 
 
@@ -406,11 +408,11 @@ Why are you making it a big deal? #CLASS: blue
 
 Not talking is my best option. Believe me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
 
-+ [("Not true. The more abrupt and short talks the more I get upset")] 
++ [("Not true. The less you talk the more upset I get.")] 
 
 - Not true #CLASS: purple
 
-The more abrupt and short talks the more I get upset #CLASS: purple
+The less you talk the more upset I get. #CLASS: purple
 
 + [(This is gonna be hard. I need to make it easier and doable for her.)] 
 
@@ -491,7 +493,7 @@ You'll keep convincing me to talk to you And I'll keep trying to ignore and esca
 
 So the best option is: To put your hand, on me hand, and let go together #CLASS: blue
 
-+ [(No.. I'm not letting go of it this time. If I keep ignoring these small stuff, it will get bigger later and severely affect our relationship!)] 
++ [(No.. I'm not letting go of it this time. If I keep ignoring these little things, it will get bigger later and severely affect our relationship!)] 
 
 - I, unfortunately, can't let go without talking about it #CLASS: purple
 
@@ -525,7 +527,7 @@ And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
 And always misunderstand and miscommunicate things with you #CLASS: blue
 Yes it happened once or twice but not all the time and that's not my default relationship with you #CLASS: blue
-You're the only one I extremely feel comfortable sharing some things with #CLASS: blue
+You're the only one I feel extremely comfortable sharing some things with #CLASS: blue
 And I always share with you what's happening with me when I get a chance #CLASS: blue
 You're the only person who knows a lot, a lot, a lot about me #CLASS: blue
 You're so fucking close to me, at least I consider that from my side.. And I want to keep it this way.. #CLASS: blue
@@ -542,13 +544,13 @@ I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 - Please let's have a call. I hate texting. #CLASS: purple
 
-Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
+Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
 + [(She always has her ways to make me laugh..)] 
 
 - Haha! Good one. Ironically.. #CLASS: purple
 
-My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's temporary and sensitive.. #CLASS: blue
 
 + [(Why is she so insistent on the fact this would hurt our relationship rather than fix it?)]
 
@@ -559,11 +561,11 @@ And keeping some things hidden are way better and healthier sometimes.. #CLASS: 
 
 + [(Hard to agree on this. But since I believe in the importance of this call, I'll have to allow it even if it was one sided..)] 
 
-- It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
+- It's hard to agree with you. We’ll talk tomorrow, even if it's one sided. #CLASS: purple
 
 Will you be free around 10-12? #CLASS: purple
 
-Try. If I didn't answer I'll probably be asleep #CLASS: blue
+Try. If I don't answer I'll probably be asleep #CLASS: blue
 
 Can you promise? #CLASS: purple
 
@@ -591,13 +593,13 @@ I wasn't sure what you promised for. I had to make sure, given the possibility o
 
 One last thing. Just know that you're asking for a big thing #CLASS: blue
 
-There's a lot going on my plate. I'm dealing with so much these days. And I'm having finals. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
+There's a lot going on my plate. I'm dealing with so much these days. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
 
 Good night #CLASS: blue
 
 + [(That's exactly why I  need to talk to her! I want to help! And I want to save this relationship cuz it's clearly shaking right now..)] 
 
-- I know, and thats why I want to talk, to help you navigate this busy time. I suppose when your plate is this busy, the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple
+- I know, and thats why I want to talk, to help you navigate this busy time. I suppose if your plate is that full then the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple
 
 + [(I hope you have a good night dear.. I really do.)]
 
@@ -628,11 +630,11 @@ Good night #CLASS: blue
 + [(I wasn't supposed to see it)] 
 ++ [(This wasn't supposed to happen)] 
 +++ [(Ah.. My head.. My heart.. My hand.. I'm literally shaking..)] 
-++++ [(My god.. I never expect it will affect me this much.. FUCK HIM!)] 
+++++ [(My god.. I never expected it will affect me this much..)] 
 +++++ [(Is this the end? Is it going to end now? This is it? No.. No..)] 
 ++++++ [(WHY DID HE HAVE TO DO THAT?!!!!)] 
 +++++++ [(Calm down Blue.. Calm down.. You'll be fine.. But.. WHY!!! WHY DID HE DO THAT!!!)] 
-++++++++ [(It's all my fault! I shouldn't have entered his apartment while he's gone to use the bathroom and see it..)] 
+++++++++ [(It's all my fault! I shouldn't have entered his apartment while he's gone to use the bathroom and seen it..)] 
 +++++++++ [(No.. I shouldn't get mad.. I mean.. I agreed to this from the very beginning of our relationship.. I should tolerate whatever I signed up for..)] 
 ++++++++++ [(Man.. What is this rush of hatred and outrage I'm feeling! I can't handle it. And I can't hide it. I can't. I need to let it out. But it will literally ruin everything we have and end it for good!)] 
 +++++++++++ [(I don't want that to happen.. At least not now..)] 
@@ -731,7 +733,7 @@ I still need to talk to you. Can you please call me when you can? #CLASS: purple
 
 I need this on the phone because it’s an important conversation. Something happened today and we can't ignore that. #CLASS: purple
 
-+ [(Man.. This is the first time I see him this persistent.. He usually let go easily and gives me the most comfort I can ever feel around him.. What's going on this time? Does he know what I'm hiding..?)] 
++ [(Man.. This is the first time I've seen him this persistent.. He usually lets go easily and gives me the most comfort I can ever feel around him.. What's going on this time? Does he know what I'm hiding..?)] 
 
 - Why are you making it a big deal? #CLASS: blue
 
@@ -739,13 +741,13 @@ Because I’m bothered that you did something thats unlike you, you upset me whi
 
 What's wrong my dear? Please talk to me, it’s not healthy to just ignore that.. #CLASS: purple
 
-+ [(Ah.. I know.. I know it's not healthy.. And I know you care.. Should I just say it..? No.. Don't guard down your emotions blue.. You're gonna ruin this. You're gonna end it. You're gonna lose it. You're gonna lose him!)] 
++ [(Ah.. I know.. I know it's not healthy.. And I know you care.. Should I just say it..? No.. Don't let your empathy conrol you Blue.. You're gonna ruin this. You're gonna end it. You're gonna lose it. You're gonna lose him!)] 
 
 - Not talking is my best option. Believe me, the more I talk, the more upset and bothered you'll get. #CLASS: blue
 
 Not true #CLASS: purple
 
-The more abrupt and short talks the more I get upset #CLASS: purple
+The less you talk the more upset I get. #CLASS: purple
 
 15 min call. No more. Please? #CLASS: purple
 
@@ -761,7 +763,7 @@ I’m literally shaking #CLASS: purple
 
 You keep ignoring it and I don't know why.. #CLASS: purple
 
-+ [(What a shitty sitation I'm in.. I'm filled with negative emotions and if I was in front of me now I could punch him.. I really should calm down.. Ignoring him is the only way to save this.. How can I get him to trust me?)] 
++ [(What a shitty situation I'm in.. I'm filled with negative emotions and if he was in front of me right now I could have punched him! Ah.. I really should calm down.. Ignoring him is the only way to save this.. How can I get him to trust me?)] 
 
 - Trust me, it's better for the sake of "us" to let it go.  #CLASS: blue
 
@@ -809,7 +811,7 @@ It seems to me that your mind is overthinking it and afraid to have it #CLASS: p
 
 So you don't trust me? #CLASS: purple
 
-+ [(Trust is all I gave him and I regreted it now! Shouldn't have trusted that he'll be careful! Ah.. I need to calm down if I really want to save this..)] 
++ [(Trust is all I gave him and I regretted it now! Shouldn't have trusted that he'll be careful! Ah.. I need to calm down if I really want to save this..)] 
 
 - No I didn't say so. #CLASS: blue
 
@@ -852,7 +854,7 @@ And not exclusively sharing things with you #CLASS: blue
 And torturing you with being mysterious #CLASS: blue
 And always misunderstand and miscommunicate things with you #CLASS: blue
 Yes it happened once or twice but not all the time and that's not my default relationship with you #CLASS: blue
-You're the only one I extremely feel comfortable sharing some things with #CLASS: blue
+You're the only one I feel extremely comfortable sharing some things with #CLASS: blue
 And I always share with you what's happening with me when I get a chance #CLASS: blue
 You're the only person who knows a lot, a lot, a lot about me #CLASS: blue
 You're so fucking close to me, at least I consider that from my side.. And I want to keep it this way.. #CLASS: blue
@@ -866,13 +868,13 @@ You’re close and special to me, very special #CLASS: purple
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
 Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
-Says you, the founder of online forum to provide emotional support for people through texting. #CLASS: blue
+Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
 Haha! Good one. Ironically.. #CLASS: purple
 
 + [(He's laughing.. Good.. I should remind him of my biggest concern..)] 
 
-- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's teprorary and sensitive.. #CLASS: blue
+- My biggest concern is, sharing what happened with you will affect our relationship, which is something I deeply cherish and I don't want to ruin it, given the fact it's temporary and sensitive.. #CLASS: blue
 
 Is there anything you can ask me to make sure that won't happen? Maybe you’re assuming it would affect us but it actually won't #CLASS: purple
 
@@ -881,13 +883,13 @@ Is there anything you can ask me to make sure that won't happen? Maybe you’re 
 - I don't know. These days, I have a very small belief that sometimes honesty is not the best policy.. #CLASS: blue
 And keeping some things hidden are way better and healthier sometimes.. #CLASS: blue
 
-It's hard to agree with you. We’ll talk tomorrow, even if it were one sided. #CLASS: purple
+It's hard to agree with you. We’ll talk tomorrow, even if it's one sided. #CLASS: purple
 
 + [(We had many setbacks the last 2 years and he never cared like this before. This is the first time I see him fighting for our relationship.. )] 
 
 - Will you be free around 10-12? #CLASS: purple
 
-Try. If I didn't answer I'll probably be asleep #CLASS: blue
+Try. If I don't answer I'll probably be asleep #CLASS: blue
 
 Can you promise? #CLASS: purple
 
@@ -909,20 +911,20 @@ What a weird appointment booking mechanism. Promise then schedule.  #CLASS: blue
 
 I wasn't sure what you promised for. I had to make sure, given the possibility of miscommunication #CLASS: purple
 
-+ [(Fuck miscommunication. And wow.. Look at him being so carefull this time..)] 
++ [(Screw miscommunication! And wow.. Look at him being so careful this time..)] 
 
 - Good night my dear #CLASS: purple
 
 + [(Wait.. I need to show him that I'm really trying my best here..)] 
 
 - One last thing. Just know that you're asking for a big thing #CLASS: blue
-There's a lot going on my plate. I'm dealing with so much these days. And I'm having finals. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
+There's a lot going on my plate. I'm dealing with so much these days. And I'm traveling in a week. But I'm going to talk to you. Hope that makes you feel better. #CLASS: blue
 
 + ["Good night"]
 
 - Good night #CLASS: blue
 
-I know, and thats why I want to talk, to help you navigate this busy time. I suppose when your plate is this busy, the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple
+I know, and thats why I want to talk, to help you navigate this busy time. I suppose if your plate is that full then the last thing you want is having to go through them while not feeling well. I want to talk to clarify, and make you feel better. #CLASS: purple
 
 + [(There is nothing you can do to make me feel better at this point.. The ship has sailed..)] 
 
@@ -930,7 +932,7 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 - _____ End of Act 3 _____ #toggleFlow
 
 
- ////////////// END OF ACT TWO ////////////// 
+ ////////////// END OF ACT THREE ////////////// 
  
  
 
@@ -961,13 +963,13 @@ I know, and thats why I want to talk, to help you navigate this busy time. I sup
 ++++++ [She reminds him that being honest might put the relationship in danger] -> option1
 
 == option1 == 
-+ [(Choice 1: Purple promises her no matter what, this won't be the last to see her)] -> option2
-+ [(Choice 2: Purple gets more concerned and is hesitant to promise)] -> option2
++ [(Choice 1: Purple promises her no matter what, this won't be the last time to see her)] -> option2 #CLASS: love
++ [(Choice 2: Purple gets more concerned and is hesitant to promise)] -> option2 #CLASS: love
 
 
 == option2 == 
-+ [(Choice 1: Blue decides to tell the truth)] -> next_truth
-+ [(Choice 2: Blue decides NOT to tell the truth)] -> next_no_truth
++ [(Choice 1: Blue decides to tell the truth)] -> next_truth #CLASS: love
++ [(Choice 2: Blue decides NOT to tell the truth)] -> next_no_truth #CLASS: love
 
 /////////////// TRUTH /////////////// 
 
@@ -1123,7 +1125,7 @@ I didn’t open the fridge. #CLASS: blue #audio_fade_out
 
 - You deserve nothing but the best. #CLASS: purple
 
-+ [Few mintues later..] -> last #audio_majda
++ [Few minutes later..] -> last #audio_majda
 
 
 /////////////// NO TRUTH /////////////// 
@@ -1277,7 +1279,7 @@ You didn’t open the fridge. #CLASS: purple #audio_fade_out
 
 - You deserve nothing but the best. #CLASS: purple
 
-+ [Few mintues later..] -> last #audio_majda
++ [Few minutes later..] -> last #audio_majda
 
 
 == last ==
@@ -1316,6 +1318,5 @@ Because  #CLASS: delayedShow8 #CLASS: credits
 
 "Tell me, my love, tell me, my love..” #CLASS: delayedShow12 #CLASS: red
 
-
--> DONE -> END
+-> END
 
