@@ -82,8 +82,6 @@ Minor things I changed based on feedback:
 Next, I just need to make final grammar & spelling fixes, write a postmortem, make a public itchio page for it, and submit it to my final project TCS class! <br>
 Also, I decided to stop sharing and collecting feedback for this version.. I will work on some improvments before I share it again. Proabably that's the plan for the summer! 
 
-#### TODO: 
-- [ ] proofread (grammar & spelling)
-- [ ] fix audio issue in Act 4
-- [ ] release a public beta (?) in itchio 
-- [ ] choose better colors (blue & purple)
+### Day 12 (Jun 8, 2019) 
+Fixed all (hopefully) grammar & spelling errors. Fixed the audio fade out problem in act 4. Polished the whole script. Cut down some sentences, rephrased some. Made a final build for the class. I also decided to participate as an exhibitor [AdventureX 2019](http://adventurexpo.org/) (not too hopeful honestly it's just, why not?). Last but not least, I submitted the game as my final project for my writing in games class. You can find the version [here](https://bmmashat.itch.io/the-day-i-opened-the-fridge-v1). <br>
+What next? I guess this is it for now. I collected lots of valuable feedback and there's a lot of work to be done. I'm gonna take a break for a while, mainly to gradaute :) Then I will continue working on it in the summer (what a sweet graduation gift). The next step would be thinking about how do I want to release it. Adding more sounds (background music), imporiving the UI, maybe adding voice acting. I want this to be polished, published, and enjoyable :) See you (me) later! 
