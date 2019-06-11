@@ -177,7 +177,7 @@ And I’m sorry that you felt that way. But I need to know why! #CLASS: purple
 
 - How hard it is to forget and move on? #CLASS: blue
 
-Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. 
+Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. #CLASS: purple
 
 I care about you. I really do. So I need to know what upsets you to avoid it. #CLASS: purple
 
@@ -260,7 +260,7 @@ You’re close and special to me, very special #CLASS: purple
 
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
-Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
+Please let's have a call. I hate texting. It's emotionless. It's draining and not efficient, especially for an important conversation like this. #CLASS: purple
 
 Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
@@ -558,9 +558,9 @@ You’re close and special to me, very special #CLASS: purple
 
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
-+ [(We really need to have this call. "I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this")] 
++ [(We really need to have this call. "I hate texting. It's emotionless. It's draining and not efficient, especially for an important conversation like this")] 
 
-- Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
+- Please let's have a call. I hate texting. It's emotionless. It's draining and not efficient, especially for an important conversation like this. #CLASS: purple
 
 Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
@@ -811,7 +811,7 @@ And I’m sorry that you felt that way. But I need to know why! #CLASS: purple
 
 - How hard it is to forget and move on? #CLASS: blue
 
-Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. 
+Very hard. Because it's not healthy to move on without understanding what happened. And it's not healthy to not give each other feedback about what makes each one of us upset. #CLASS: purple
 
 I care about you. I really do. So I need to know what upsets you to avoid it.  #CLASS: purple
 
@@ -901,7 +901,7 @@ You’re close and special to me, very special #CLASS: purple
 
 I didn't say you don't care about me. But I asked if you do care #CLASS: purple
 
-Please let's have a call. I hate texting. Its emotionless. Its draining and not efficient, especially for an important conversation like this. #CLASS: purple
+Please let's have a call. I hate texting. It's emotionless. It's draining and not efficient, especially for an important conversation like this. #CLASS: purple
 
 Says you, the founder of an online forum to provide emotional support for people through texting. #CLASS: blue
 
@@ -1351,7 +1351,7 @@ A game by Bayan Mashat #CLASS: delayedShow5 #CLASS: credits
 
 Dedicated to.. #CLASS: delayedShow6 #CLASS: credits
 
-Every “Purple” out there.. #CLASS: delayedShow7 #CLASS: credits
+Every "Purple" out there..  #CLASS: delayedShow7 #CLASS: omar
 
 Because  #CLASS: delayedShow8 #CLASS: credits
 -> red
